@@ -1,0 +1,48 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: snow;
+
+}
+.main {
+    background-color: rgb(197, 196, 196);
+    position: relative;
+    padding-top: 3%;
+}
+
+.cloud {
+    display: block;
+    position: relative;
+}
+
+h1 {
+    margin: 0 auto 0 auto;
+    font-size: 50px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+h3 {
+    font-family: 'Nunito', sans-serif;
+}
+
+#first {
+    left: 60%;
+}
+
+#second {
+    left: 30%;
+}
+
+.profile-pic {
+    height: 200px;
+}
+
+.logo {
+    margin: 10px;
+}
+
